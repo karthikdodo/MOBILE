@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorldApp</string>
+    <string name="title_activity_success">success</string>
+    <string name="title_activity_sucess_activity">Sucess_activity</string>
+</resources>
